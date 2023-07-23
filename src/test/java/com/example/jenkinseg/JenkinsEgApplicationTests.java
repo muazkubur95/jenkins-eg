@@ -8,3 +8,6 @@ class JenkinsEgApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
